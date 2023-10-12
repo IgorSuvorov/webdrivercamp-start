@@ -1,0 +1,17 @@
+    Open a file: C-x C-f (Control + x, then Control + f)
+    Save a file: C-x C-s (Control + x, then Control + s)
+    Cut an entire line: C-k (Control + k)
+    Paste: C-y (Control + y)
+    Search forward: C-s (Control + s)
+    Undo: C-/ (Control + /) or C-x u (Control + x, then u)
+    Quit Emacs: C-x C-c (Control + x, then Control + c)
+
+Vi:
+
+    Insert text before the cursor: i
+    Delete and cut the current line: dd
+    Paste the lines in the buffer into the text after the current line: p
+    Undo what you just did: u
+    Quit vi even though latest changes have not been saved for this vi call: :q!
+    Move the cursor to the start of the current line: 0 (zero)
+    Move the cursor to the end of the line: $
